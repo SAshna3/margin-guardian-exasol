@@ -2,7 +2,9 @@
 
 ## Overview
 **Margin Guardian** is a high-performance e-commerce analytics solution built for **Exasol Local Starter Kit**. It directly addresses **Track 02: "Returns that erode the margin on the sale"**, uncovering hidden financial losses caused by reverse logistics, restocking labor, processing fees, and unsellable inventory write-offs.
-
+## 🎬 Project Links & Assets
+* **Demo Video:** [Watch Video Demo](https://drive.google.com/drive/folders/1DVv5dETfDDgs-_F_jRNc3K_u873K0Rug)
+* **Pitch Deck:** [View Pitch Deck PDF](https://drive.google.com/drive/folders/1h_hteXIo5GMsRondXu4sB8-4cwTL_raJ)
 ---
 
 ## Track 02 Focus & Problem Statement
